@@ -1,5 +1,5 @@
 # yahoo_panel_data
-**Panel data for multiple regression** <br>
+**Сross-sectional data for multiple regression** <br>
 **Данные для построения многофакторных регрессионных моделей** <br>
 210 вариантов <br>
 <em> Дата сбора данных: 20.08.2022</em> <br>	
